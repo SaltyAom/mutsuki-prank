@@ -126,7 +126,6 @@ class IWannaKnowOWO extends HookWidget {
             ..center
             ..scrollable
             ..maxW = 332
-            ..expanded
         ])
           ..center
           ..gap = 32,
